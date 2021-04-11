@@ -13,7 +13,7 @@ node index.js
 ## Usage 
 A command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). Review the [Good README Guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a high-quality, professional README should contain. 
 
-![A screenshot of the application](./assets/screenshot.PNG)
+![A screenshot of the application](/assets/screenshot.PNG)
 
 link to demo: https://youtu.be/zkhbAhQyr0I
 
